@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617651860299",
+    "firebase_url": "https://lab-task-ec70c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lab-task-ec70c",
+    "storage_bucket": "lab-task-ec70c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617651860299:android:7995259e390acbdf226ece",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzv9PlIzjJgVkAdodSHMkA5zv-q2687I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
